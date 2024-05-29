@@ -16,7 +16,7 @@ import requests
 
 
 # Load the dataset
-df_fr = pd.read_csv(r"C:\Users\maxim\Downloads\df_fr_290501.csv")
+df_fr = pd.read_csv(r"C:\Users\Alan\Downloads\df_fr_final2405.csv")
 
 
 # In[ ]:
